@@ -15,7 +15,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alex Pam </h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist| Web 3 </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center"   
+<a href="https://www.kaggle.com/easylife45" target="blank"><img align="center"   
 <a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
  <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 <a href = "https://huggingface.co/AlexPam"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="45" width="50" /></a>
