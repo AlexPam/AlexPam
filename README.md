@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://www.kaggle.com/easylife45" target="blank"><img align="center"   
 <a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
- <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ <a href = "mailto: alexpam2010.com@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 <a href = "https://huggingface.co/AlexPam"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="45" width="50" /></a>
 </p>
 </p>
